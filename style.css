@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color:#a3f1e4; 
+    }
+    #album{
+    border-style:solid;
+    border-color:#0b2469;
+    border-radius:60px;
+    padding:5px;
+    width:450px;
+    }
+    #reason1{
+    font-size:50px;
+    }
+    #firstp{
+    word-spacing:10px;
+    font-variant:small-caps;
+    font-size:80px;
+    }
